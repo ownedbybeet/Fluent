@@ -33,11 +33,11 @@ local Library = {
 	WindowFrame = nil,
 	Unloaded = false,
 
-	Theme = "Dark",
+	Theme = "Amethyst",
 	DialogOpen = false,
 	UseAcrylic = false,
 	Acrylic = false,
-	Transparency = true,
+	Transparency = false,
 	MinimizeKeybind = nil,
 	MinimizeKey = Enum.KeyCode.LeftControl,
 
